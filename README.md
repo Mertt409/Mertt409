@@ -9,4 +9,4 @@
 - Teknolojiye ilgili biriyim.
 - Yazılımla uğraşıyorum.
 - Programlama dilleri: Scratch, Python, C++, HTML/CSS, JavaScript.
-- https://sites.google.com/view/mert409/
+- Full Stack Developer
