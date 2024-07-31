@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Mert. They call me Mert409.
-- 👀 I’m interested in technology.
-- 🌱 I’m dealing with software.
-- 📫 Programming languages: Scratch, Python, C++, HTML/CSS, JavaScript.
-- 😄 I'm from Turkiye.
-- ⚡ https://mert-409.github.io/
+Mert
 
-- Selam! Ben Mert. Bana Mert409 derler.
-- Teknolojiye ilgili biriyim.
-- Yazılımla uğraşıyorum.
-- Programlama dilleri: Scratch, Python, C++, HTML/CSS, JavaScript.
-- Full Stack Developer
+Full Stack Developer
+
+https://mert-409.web.app/
+
+![Logo](https://github.com/user-attachments/assets/93d72389-0468-4a69-897e-9ac6af3e3278)
+
