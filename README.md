@@ -10,7 +10,9 @@ Languages I write: HTML, CSS, JavaScript, Dart
 
 Frameworks I write: Flutter, Node.js
 
-Favourite IDEs: Visual Studio Code, Project IDX
+IDEs: Visual Studio Code, Project IDX
+
+Other: Firebase, GitHub
 
 _(Languages I known but don't write: Python, C++)_
 
