@@ -8,7 +8,7 @@ _**Turkish - he/him - known as Mert409**_
 
 Languages I write: HTML, CSS, JavaScript, Dart 
 
-Frameworks I write: Flutter, Node.js
+Frameworks I write: Flutter, Node.js, React, React Native
 
 IDEs: Visual Studio Code, Project IDX
 
