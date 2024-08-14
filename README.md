@@ -4,9 +4,9 @@
 
 **https://mert-409.web.app/**
 
-_**Turkish - he/him - known as Mert409**_
+_Turkish - he/him - known as Mert409_
 
-_**Web/Mobile**_
+_Web/Mobile_
 
 ----
 
