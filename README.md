@@ -4,11 +4,11 @@
 
 **https://mert-409.web.app/**
 
-----
-
 _**Turkish - he/him - known as Mert409**_
 
 _**Web/Mobile**_
+
+----
 
 Languages I write: HTML, CSS, JavaScript, Dart 
 
