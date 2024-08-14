@@ -6,6 +6,10 @@
 
 _**Turkish - he/him - known as Mert409**_
 
+----
+
+Web/Mobile
+
 Languages I write: HTML, CSS, JavaScript, Dart 
 
 Frameworks I write: Flutter, Node.js, React, React Native
