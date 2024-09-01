@@ -2,7 +2,7 @@
 <h4><a style="text-align: center;" href="https://mert-409.web.app/">https://mert-409.web.app/</a></h4>
 <p>Turkish - he/him - known as Mert409</p>
 <p>Web/Mobile</p>
-<img src="https://github.com/user-attachments/assets/4932c5e5-1d3d-4442-8a24-e663ffcb83d4" width="70" height="70">
+<img src="https://github.com/user-attachments/assets/4932c5e5-1d3d-4442-8a24-e663ffcb83d4" width="100" height="100">
 <p>Languages:</p>
 <a href="https://www.w3.org/html/"><img src="https://github.com/user-attachments/assets/1f94fe56-9fab-4699-a0ff-a55a3a1fbf11" width="36" height="36" alt="HTML" ></a>
 <a href="https://www.w3.org/Style/CSS/"><img src="https://github.com/user-attachments/assets/43a3db91-88d1-4019-b351-99f644995e90" width="27" height="36" alt="CSS" ></a>
