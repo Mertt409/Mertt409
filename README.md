@@ -9,7 +9,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/user-attachments/assets/c0351a2b-4f0a-45eb-818a-132256b83622" width="36" height="36" alt="JavaScript" ></a>
 <a href="https://typescriptlang.org/"><img src="https://github.com/user-attachments/assets/1e44fc40-1b1c-43b8-a4aa-4b517b7e579a" width="36" height="36" alt="TypeScript" ></a>
 <a href="https://dart.dev/"><img src="https://github.com/user-attachments/assets/a8c1a3f3-84d4-4cef-9cd3-461dab068497" width="36" height="36" alt="Dart" ></a>
-<a href="https://www.python.org/"><img src="https://github.com/user-attachments/assets/e13d4fdc-901c-4fb1-845b-66ff5e91da71" width="36" height="44" alt="Python" ></a>
 
 <p>Frameworks:</p>
 <a href="https://flutter.dev/"><img src="https://github.com/user-attachments/assets/dfcea00d-5dc7-435c-a47a-1abaf5a1dd9c" width="45" height="36" alt="Flutter" ></a>
